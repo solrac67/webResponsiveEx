@@ -1,5 +1,5 @@
 body{ width:100% ;
-      background-image: url('img/metalfondo.jpg') ;
+      background-image: url('../img/metalfondo.jpg') ;
       text-align:center ;
 
 }
@@ -13,7 +13,7 @@ body{ width:100% ;
            width: 99.3 ;
 		   border: 3px solid maroon ;
 		   border-radius: 5px;
-           background-image:url('img/sub.png');
+           background-image:url('../img/sub.png');
            background-size: 100% ;
 		   text-align: center ;
 		  		  
