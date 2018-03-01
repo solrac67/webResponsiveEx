@@ -1,4 +1,4 @@
 # webResponsiveEx
 
-Ejemplo de web responsive con flecbox
+Ejemplo de web responsive con flexbox
 
