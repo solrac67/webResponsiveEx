@@ -1,0 +1,63 @@
+#envoltura{ 
+    background-color:#91842C ;
+    margin: 10px ;
+    padding: 10px ;
+    border: 5px solid maroon ;
+    
+
+}
+
+header { display:block ;
+ text-align: center ;
+ font-family: 'Courgette', cursive;
+ font-size: 24px ;
+ color: maroon ;		
+
+}
+nav {     font-family: 'Indie Flower', cursive;
+  font-size: 16px ;
+  text-align: center ;
+  color: maroon ;
+}
+a:hover { color: lime ;
+    font: italic bold 14px Georgia, "Times New Roman", serif ;
+    word-spacing: 2px ;
+}
+#container { display:-webkit-box ;
+      display: -moz-box ;
+      display: -moz-flex ;
+      display: -ms-flexbox ;
+      display: -webkit-flex ;
+      display: flex ;
+      -webkit-flex-wrap: wrap ;
+      flex-wrap: wrap ;
+      
+}
+
+.supercaja { padding: 4px ;
+border: 1px solid maroon ;
+background-color:white ;
+width: 600px ;
+height: 450px ;
+font-family: 'Indie Flower', cursive;
+text-align: center ;
+}
+
+.caja { padding: 4px ;
+border: 1px solid maroon ;
+background-color:white ;
+width: 300px ;
+height: 450px ;
+font-family: 'Indie Flower', cursive;
+text-align: center ;
+}
+
+.semicaja { border: 1px solid maroon ;
+    background-color: white ;
+    width: 300px ;
+    height: 178px ;
+}
+h2 {      font-size: 18px ; 
+}
+p {   font-size:14px ;
+}
